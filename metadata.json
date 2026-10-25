@@ -1,0 +1,6 @@
+{
+  "name": "敦煌照见 · 莫高窟数字壁画连续视界",
+  "description": "基于统一视觉风格锁与镜头衔接检查表的敦煌莫高窟41秒9镜连续照见体验系统，集成程序化交互烛光照壁、镜头衔接质检验收台与矿物颜料提示词工作台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
